@@ -8,6 +8,9 @@
 // Crea una variable llamada peorLenguaje y asígnale el último elemento del array lenguajesFavoritos.
 
 var nombre='sirvaras';
+var edad=29;
+var mayorDeEdad =true;
+
 
 
 
