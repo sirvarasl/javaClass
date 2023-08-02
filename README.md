@@ -1,0 +1,2 @@
+# javaClass
+Practices in javascript
